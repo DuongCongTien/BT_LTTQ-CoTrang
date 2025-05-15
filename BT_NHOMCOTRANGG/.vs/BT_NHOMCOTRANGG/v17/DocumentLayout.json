@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\vemaybay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\vemaybay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\vemaybay.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\vemaybay.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\tongdoanhthu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\tongdoanhthu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemvekhuhoi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemvekhuhoi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemsanbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemsanbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemkhachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemkhachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemhhk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemhhk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemhd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemhd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemchuyenbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemchuyenbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\soluongvehuy.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\soluongvehuy.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\sanbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\sanbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\khachhangtratien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\khachhangtratien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\hoadon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\hoadon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\hanghangkhong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\hanghangkhong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\vekhuhoi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\vekhuhoi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|c:\\users\\hieu\\downloads\\bt_nhomcotrangg\\bt_nhomcotrangg\\bt_nhomcotrangg\\timkiemve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\timkiemve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\hoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\hoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\reportkh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\reportkh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\sanbay.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\sanbay.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\reportchuyenbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\reportchuyenbay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\bt_nhomcotrangg\\reportvemaybay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43863C14-9CAE-4C78-8A9F-37645A082AF4}|BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG.vbproj|solutionrelative:bt_nhomcotrangg\\reportvemaybay.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "timKiemVeKhuHoi.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemVeKhuHoi.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemVeKhuHoi.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemVeKhuHoi.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemVeKhuHoi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:00:10.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tongDoanhThu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\tongDoanhThu.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\tongDoanhThu.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\tongDoanhThu.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\tongDoanhThu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T03:09:58.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "veMayBay.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\veMayBay.rdlc",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\veMayBay.rdlc",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\veMayBay.rdlc [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\veMayBay.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-15T02:23:06.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "veMayBay.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\veMayBay.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\veMayBay.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\veMayBay.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\veMayBay.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:00:41.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "timKiemVe.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemVe.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemVe.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemVe.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemVe.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T09:56:19.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "timKiemSanBay.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemSanBay.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemSanBay.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemSanBay.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemSanBay.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T09:50:42.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "timKiemKhachHang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemKhachHang.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemKhachHang.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemKhachHang.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemKhachHang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T09:47:55.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "timKiemHHK.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemHHK.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemHHK.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemHHK.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemHHK.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T09:50:45.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "timKiemHD.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemHD.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemHD.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemHD.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemHD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T09:50:49.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "timKiemChuyenBay.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemChuyenBay.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemChuyenBay.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemChuyenBay.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemChuyenBay.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:21:33.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sanBay.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\sanBay.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\sanBay.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\sanBay.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\sanBay.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:20:21.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "khachHangTraTien.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\khachHangTraTien.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\khachHangTraTien.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\khachHangTraTien.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\khachHangTraTien.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T03:19:16.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "khachHang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\khachHang.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\khachHang.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\khachHang.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\khachHang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:17:59.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "hoaDon.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\hoaDon.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\hoaDon.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\hoaDon.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\hoaDon.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:17:16.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "soLuongVeHuy.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\soLuongVeHuy.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\soLuongVeHuy.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\soLuongVeHuy.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\soLuongVeHuy.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T03:24:02.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hangHangKhong.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\hangHangKhong.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\hangHangKhong.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\hangHangKhong.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\hangHangKhong.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:15:41.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "veKhuHoi.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\veKhuHoi.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\veKhuHoi.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\veKhuHoi.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\veKhuHoi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T10:00:38.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\Form1.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\Form1.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\Form1.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T01:36:27.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "timKiemVe.vb",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemVe.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\timKiemVe.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\timKiemVe.vb",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\timKiemVe.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T09:57:23.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\Form1.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\Form1.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\Form1.vb",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\Form1.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T01:47:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "hoaDon.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\hoaDon.rdlc",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\hoaDon.rdlc",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\hoaDon.rdlc [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\hoaDon.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-15T02:45:33.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "reportKH.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\reportKH.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\reportKH.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\reportKH.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\reportKH.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T02:58:13.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sanBay.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\sanBay.rdlc",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\sanBay.rdlc",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\sanBay.rdlc [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\sanBay.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-15T02:41:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "reportChuyenBay.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\reportChuyenBay.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\reportChuyenBay.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\reportChuyenBay.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\reportChuyenBay.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T02:34:54.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "reportVeMayBay.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\reportVeMayBay.vb",
+              "RelativeDocumentMoniker": "BT_NHOMCOTRANGG\\reportVeMayBay.vb",
+              "ToolTip": "C:\\Users\\HIEU\\Downloads\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\BT_NHOMCOTRANGG\\reportVeMayBay.vb [Design]",
+              "RelativeToolTip": "BT_NHOMCOTRANGG\\reportVeMayBay.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-15T02:23:33.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
