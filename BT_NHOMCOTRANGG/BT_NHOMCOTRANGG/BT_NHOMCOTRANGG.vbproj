@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43863C14-9CAE-4C78-8A9F-37645A082AF4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BT_NHOMCOTRANGG.My.MyApplication</StartupObject>
+    <RootNamespace>BT_NHOMCOTRANGG</RootNamespace>
+    <AssemblyName>BT_NHOMCOTRANGG</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BT_NHOMCOTRANGG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BT_NHOMCOTRANGG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=23ec7fc2d6eaa4a5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Server.1.0.0\lib\net46\Microsoft.SqlServer.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChuyenBay.Designer.vb">
+      <DependentUpon>ChuyenBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChuyenBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectDB.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hangHangKhong.Designer.vb">
+      <DependentUpon>hangHangKhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hangHangKhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hoaDon.Designer.vb">
+      <DependentUpon>hoaDon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hoaDon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="khachHang.Designer.vb">
+      <DependentUpon>khachHang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="khachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="khachHangTraTien.Designer.vb">
+      <DependentUpon>khachHangTraTien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="khachHangTraTien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QuanLyMayBayDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyMayBayDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="reportChuyenBay.Designer.vb">
+      <DependentUpon>reportChuyenBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportChuyenBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportHD.Designer.vb">
+      <DependentUpon>reportHD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportHD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportKH.Designer.vb">
+      <DependentUpon>reportKH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportKH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportSanBay.Designer.vb">
+      <DependentUpon>reportSanBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportSanBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportVeMayBay.Designer.vb">
+      <DependentUpon>reportVeMayBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportVeMayBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sanBay.Designer.vb">
+      <DependentUpon>sanBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sanBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soLuongVeHuy.Designer.vb">
+      <DependentUpon>soLuongVeHuy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="soLuongVeHuy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timKiemChuyenBay.Designer.vb">
+      <DependentUpon>timKiemChuyenBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timKiemChuyenBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timKiemHD.Designer.vb">
+      <DependentUpon>timKiemHD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timKiemHD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timKiemHHK.Designer.vb">
+      <DependentUpon>timKiemHHK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timKiemHHK.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timKiemKhachHang.Designer.vb">
+      <DependentUpon>timKiemKhachHang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timKiemKhachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timKiemSanBay.Designer.vb">
+      <DependentUpon>timKiemSanBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timKiemSanBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timKiemVe.Designer.vb">
+      <DependentUpon>timKiemVe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timKiemVe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timKiemVeKhuHoi.Designer.vb">
+      <DependentUpon>timKiemVeKhuHoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="timKiemVeKhuHoi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tongDoanhThu.Designer.vb">
+      <DependentUpon>tongDoanhThu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tongDoanhThu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="veKhuHoi.Designer.vb">
+      <DependentUpon>veKhuHoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="veKhuHoi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="veMayBay.Designer.vb">
+      <DependentUpon>veMayBay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="veMayBay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="chuyenBay.rdlc" />
+    <EmbeddedResource Include="ChuyenBay.resx">
+      <DependentUpon>ChuyenBay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hangHangKhong.resx">
+      <DependentUpon>hangHangKhong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hoaDon.rdlc" />
+    <EmbeddedResource Include="hoaDon.resx">
+      <DependentUpon>hoaDon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="khachHang.rdlc" />
+    <EmbeddedResource Include="khachHang.resx">
+      <DependentUpon>khachHang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="khachHangTraTien.resx">
+      <DependentUpon>khachHangTraTien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportChuyenBay.resx">
+      <DependentUpon>reportChuyenBay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportHD.resx">
+      <DependentUpon>reportHD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportKH.resx">
+      <DependentUpon>reportKH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportSanBay.resx">
+      <DependentUpon>reportSanBay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportVeMayBay.resx">
+      <DependentUpon>reportVeMayBay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sanBay.rdlc" />
+    <EmbeddedResource Include="sanBay.resx">
+      <DependentUpon>sanBay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soLuongVeHuy.resx">
+      <DependentUpon>soLuongVeHuy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timKiemChuyenBay.resx">
+      <DependentUpon>timKiemChuyenBay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timKiemHD.resx">
+      <DependentUpon>timKiemHD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timKiemHHK.resx">
+      <DependentUpon>timKiemHHK.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timKiemKhachHang.resx">
+      <DependentUpon>timKiemKhachHang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timKiemSanBay.resx">
+      <DependentUpon>timKiemSanBay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timKiemVe.resx">
+      <DependentUpon>timKiemVe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timKiemVeKhuHoi.resx">
+      <DependentUpon>timKiemVeKhuHoi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tongDoanhThu.resx">
+      <DependentUpon>tongDoanhThu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="veKhuHoi.resx">
+      <DependentUpon>veKhuHoi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="veMayBay.rdlc" />
+    <EmbeddedResource Include="veMayBay.resx">
+      <DependentUpon>veMayBay.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="QuanLyMayBayDataSet.xsc">
+      <DependentUpon>QuanLyMayBayDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyMayBayDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyMayBayDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyMayBayDataSet.xss">
+      <DependentUpon>QuanLyMayBayDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
