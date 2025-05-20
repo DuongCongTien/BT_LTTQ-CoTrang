@@ -158,6 +158,15 @@
     <Compile Include="reportChuyenBay.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="reportHD.Designer.vb">
+      <DependentUpon>reportHD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportHD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+>>>>>>> Hieu2
     <Compile Include="reportKH.Designer.vb">
       <DependentUpon>reportKH.vb</DependentUpon>
     </Compile>
@@ -280,6 +289,12 @@
     <EmbeddedResource Include="reportChuyenBay.resx">
       <DependentUpon>reportChuyenBay.vb</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
+=======
+    <EmbeddedResource Include="reportHD.resx">
+      <DependentUpon>reportHD.vb</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> Hieu2
     <EmbeddedResource Include="reportKH.resx">
       <DependentUpon>reportKH.vb</DependentUpon>
     </EmbeddedResource>

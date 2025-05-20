@@ -108,9 +108,15 @@ Partial Class Form1
         Me.Label5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.Label5.Location = New System.Drawing.Point(447, 159)
         Me.Label5.Name = "Label5"
+<<<<<<< HEAD
         Me.Label5.Size = New System.Drawing.Size(929, 67)
         Me.Label5.TabIndex = 2
         Me.Label5.Text = "Bài tập thực hành lập trình trực quang"
+=======
+        Me.Label5.Size = New System.Drawing.Size(900, 67)
+        Me.Label5.TabIndex = 2
+        Me.Label5.Text = "Bài tập thực hành lập trình trực quan"
+>>>>>>> Hieu2
         '
         'Label6
         '
@@ -129,7 +135,11 @@ Partial Class Form1
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripMenuItem1, Me.XóaToolStripMenuItem, Me.TìmKiếmToolStripMenuItem, Me.TínhToánToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
+<<<<<<< HEAD
         Me.MenuStrip1.Size = New System.Drawing.Size(1852, 40)
+=======
+        Me.MenuStrip1.Size = New System.Drawing.Size(1852, 48)
+>>>>>>> Hieu2
         Me.MenuStrip1.TabIndex = 4
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -137,7 +147,11 @@ Partial Class Form1
         '
         Me.ToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ThêmVéMáyBayToolStripMenuItem, Me.ThêmKháchHàngToolStripMenuItem, Me.SânBayToolStripMenuItem, Me.ChuyếnBayToolStripMenuItem, Me.HãngHàngKhôngToolStripMenuItem, Me.VéKhứHồiToolStripMenuItem, Me.HóaĐơnToolStripMenuItem})
         Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
+<<<<<<< HEAD
         Me.ToolStripMenuItem1.Size = New System.Drawing.Size(130, 36)
+=======
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(130, 44)
+>>>>>>> Hieu2
         Me.ToolStripMenuItem1.Text = "Cập nhật"
         '
         'ThêmVéMáyBayToolStripMenuItem
@@ -186,7 +200,11 @@ Partial Class Form1
         '
         Me.XóaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.VéMáyBayToolStripMenuItem1, Me.KháchHàngToolStripMenuItem, Me.SânBayToolStripMenuItem2, Me.ChuyếnBayToolStripMenuItem2, Me.HãngHàngKhôngToolStripMenuItem2, Me.VéKhứHồiToolStripMenuItem2, Me.HóaĐơnToolStripMenuItem2})
         Me.XóaToolStripMenuItem.Name = "XóaToolStripMenuItem"
+<<<<<<< HEAD
         Me.XóaToolStripMenuItem.Size = New System.Drawing.Size(133, 36)
+=======
+        Me.XóaToolStripMenuItem.Size = New System.Drawing.Size(133, 44)
+>>>>>>> Hieu2
         Me.XóaToolStripMenuItem.Text = "Tìm kiếm"
         '
         'VéMáyBayToolStripMenuItem1
@@ -235,7 +253,11 @@ Partial Class Form1
         '
         Me.TìmKiếmToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.VéMáyBayToolStripMenuItem2, Me.KháchHàngToolStripMenuItem2, Me.SânBayToolStripMenuItem3, Me.ChuyếnBayToolStripMenuItem3, Me.HóaĐơnToolStripMenuItem3})
         Me.TìmKiếmToolStripMenuItem.Name = "TìmKiếmToolStripMenuItem"
+<<<<<<< HEAD
         Me.TìmKiếmToolStripMenuItem.Size = New System.Drawing.Size(135, 36)
+=======
+        Me.TìmKiếmToolStripMenuItem.Size = New System.Drawing.Size(135, 44)
+>>>>>>> Hieu2
         Me.TìmKiếmToolStripMenuItem.Text = "Thống kê"
         '
         'VéMáyBayToolStripMenuItem2
@@ -272,7 +294,11 @@ Partial Class Form1
         '
         Me.TínhToánToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TổngDoanhThuToolStripMenuItem, Me.SốTiềnKHPhảiTrảToolStripMenuItem, Me.SốLượngChuyếnToolStripMenuItem})
         Me.TínhToánToolStripMenuItem.Name = "TínhToánToolStripMenuItem"
+<<<<<<< HEAD
         Me.TínhToánToolStripMenuItem.Size = New System.Drawing.Size(136, 36)
+=======
+        Me.TínhToánToolStripMenuItem.Size = New System.Drawing.Size(136, 44)
+>>>>>>> Hieu2
         Me.TínhToánToolStripMenuItem.Text = "Tính toán"
         '
         'TổngDoanhThuToolStripMenuItem
